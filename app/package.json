@@ -1,0 +1,9 @@
+{
+  "android": {
+    "v8Flags": "--expose_gc",
+    "markingMode": "none"
+  },
+  "main": "main",
+  "name": "nsv-playgroundtut",
+  "version": "1.0.0"
+}
